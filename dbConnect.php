@@ -11,3 +11,4 @@
     else {
       session_start();
     }
+?>
